@@ -1,11 +1,3 @@
-/*
- * @Author: st004362 chuangchuang.mi@santachi.com.cn
- * @Date: 2024-08-31 10:43:04
- * @LastEditors: st004362 chuangchuang.mi@santachi.com.cn
- * @LastEditTime: 2024-08-31 10:43:15
- * @FilePath: \vite-vue3\commitlint.config.js
- * @Description: commitg规范
- */
 module.exports = {
     // 继承的规则
     extends: ['@commitlint/config-conventional'],

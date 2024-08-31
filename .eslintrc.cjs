@@ -1,11 +1,3 @@
-/*
- * @Author: st004362 chuangchuang.mi@santachi.com.cn
- * @Date: 2024-08-30 13:46:49
- * @LastEditors: st004362 chuangchuang.mi@santachi.com.cn
- * @LastEditTime: 2024-08-30 19:06:33
- * @FilePath: \vite-vue3\.eslintrc.cjs
- * @Description: eslint配置
- */
 module.exports = {
     env: {
         browser: true,

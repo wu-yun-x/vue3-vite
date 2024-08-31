@@ -1,11 +1,3 @@
-<!--
- * @Author: st004362 chuangchuang.mi@santachi.com.cn
- * @Date: 2024-08-30 16:48:17
- * @LastEditors: st004362 chuangchuang.mi@santachi.com.cn
- * @LastEditTime: 2024-08-30 17:56:21
- * @FilePath: \vite-vue3\src\layout\Index.vue
- * @Description: 主页面
--->
 <template>
     <div class="g-app-container">
         <AppHeader />
