@@ -1,5 +1,5 @@
 <template>
-    <div>头部</div>
+    <div>头部内容展示</div>
 </template>
 
 <script setup></script>
