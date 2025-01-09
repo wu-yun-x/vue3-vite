@@ -1,21 +1,14 @@
 <script setup>
-// import { ref } from 'vue';
-// import HelloWorld from './components/HelloWorld.vue'
+import {ref} from 'vue'
+const testValue = ref('测试reabase，git 提交')
 
-// const visible = ref(false);
-// const openDialog = () => {
-//     // eslint-disable-next-line no-undef
-//     ElMessageBox.alert('弹框内容');
-//     visible.value = true;
-// };
-// const closeDialog = () => {
-//     // eslint-disable-next-line no-undef
-//     ElMessageBox.success('操作成功');
-//     visible.value = false;
-// };
+onMounted(()=>{
+  console.log(testValue)
+})
+
 </script>
 <template>
-    <!-- <HelloWorld msg="Vite + Vue" /> -->
+  {{ testValue }}
     <router-view></router-view>
 </template>
 
